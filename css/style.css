@@ -1,0 +1,12 @@
+header h1>span {
+	color: rgb(180, 0, 0);
+}
+
+header blockquote {
+	color: #3276b1;
+	margin-top: 10px;
+}
+
+.content {
+	margin-top: 40px;
+}
