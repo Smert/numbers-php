@@ -11,8 +11,8 @@ Class work with integers from -10^11 to 10^11
   - TranslateNumberUA.php // UA locale
 
 *Locales*
-TranslateNumber::translate(0); // zero
-TranslateNumberRU::translate(0); // ноль
-TranslateNumberUA::translate(0); // нуль
+- TranslateNumber::translate(0); // zero
+- TranslateNumberRU::translate(0); // ноль
+- TranslateNumberUA::translate(0); // нуль
 
 You can easily add a new locale.
